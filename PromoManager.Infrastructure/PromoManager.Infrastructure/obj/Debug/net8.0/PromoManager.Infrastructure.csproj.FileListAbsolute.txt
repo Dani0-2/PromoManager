@@ -1,0 +1,17 @@
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Infrastructure.deps.json
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Infrastructure.dll
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Infrastructure.pdb
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Application.dll
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Domain.dll
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Application.pdb
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Domain.pdb
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.AssemblyInfo.cs
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\obj\Debug\net8.0\PromoMan.9736B7AC.Up2Date
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.dll
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\obj\Debug\net8.0\refint\PromoManager.Infrastructure.dll
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.pdb
+C:\Users\german\source\repos\PromoManager.Infrastructure\PromoManager.Infrastructure\obj\Debug\net8.0\ref\PromoManager.Infrastructure.dll

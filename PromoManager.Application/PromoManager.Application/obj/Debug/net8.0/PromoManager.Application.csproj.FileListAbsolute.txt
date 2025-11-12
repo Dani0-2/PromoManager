@@ -1,0 +1,15 @@
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\bin\Debug\net8.0\PromoManager.Application.deps.json
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\bin\Debug\net8.0\PromoManager.Application.dll
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\bin\Debug\net8.0\PromoManager.Application.pdb
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\bin\Debug\net8.0\PromoManager.Domain.dll
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\bin\Debug\net8.0\PromoManager.Domain.pdb
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.csproj.AssemblyReference.cache
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.AssemblyInfoInputs.cache
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.AssemblyInfo.cs
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\obj\Debug\net8.0\PromoMan.9FC89D47.Up2Date
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.dll
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\obj\Debug\net8.0\refint\PromoManager.Application.dll
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.pdb
+C:\Users\german\source\repos\PromoManager.Application\PromoManager.Application\obj\Debug\net8.0\ref\PromoManager.Application.dll
